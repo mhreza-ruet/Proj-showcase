@@ -1,0 +1,5 @@
+numpy
+pandas
+faiss-cpu
+scikit-learn
+# rdkit-pypi
