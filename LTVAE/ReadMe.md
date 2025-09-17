@@ -1,5 +1,3 @@
-## ChemInfo-LatentRep
-
 # LSTM–Transformer–VAE (LTVAE) for Molecular SMILES
 
 This project implements a hybrid Variational Autoencoder (**LTVAE**) for molecular SMILES strings, using an **Bi-directional LSTM encoder** followed by **VAE reparameterization trick** and a **Transformer decoder**. It supports teacher-forcing training, greedy and beam search decoding, and standard molecular metrics (validity, Levenshtein distance, reconstruction accuracy).
