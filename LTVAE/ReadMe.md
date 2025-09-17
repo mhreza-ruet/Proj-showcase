@@ -72,3 +72,6 @@ Train the model by running:
 - Training/validation splits are fixed by the provided CSVs.
 -	Vocabulary is cached in vocab.json for consistency.
 -	All configs (cfg) are centralized so experiments can be rerun easily with different hyperparameters.
+
+### Data
+Data can be accessed from [here](https://drive.google.com/drive/folders/1DPeCl15xXv-mPysPgoZz5EAOHKTJ6_kI?usp=sharing)
